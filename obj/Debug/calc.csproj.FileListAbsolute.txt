@@ -1,0 +1,6 @@
+c:\users\doris\documents\visual studio 2012\Projects\calc\bin\Debug\calc.exe.config
+c:\users\doris\documents\visual studio 2012\Projects\calc\bin\Debug\calc.exe
+c:\users\doris\documents\visual studio 2012\Projects\calc\bin\Debug\calc.pdb
+c:\users\doris\documents\visual studio 2012\Projects\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+c:\users\doris\documents\visual studio 2012\Projects\calc\obj\Debug\calc.exe
+c:\users\doris\documents\visual studio 2012\Projects\calc\obj\Debug\calc.pdb
